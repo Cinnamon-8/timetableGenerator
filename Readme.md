@@ -23,7 +23,7 @@ To compile and run the program, you need to have a C compiler installed on your 
 1. Clone the repository or download the source code files.
 
 ```
-git clone <repository_url>
+git clone https://github.com/Cinnamon-8/timetableGenerator
 ```
 Compile the program using the C compiler.
 ```
